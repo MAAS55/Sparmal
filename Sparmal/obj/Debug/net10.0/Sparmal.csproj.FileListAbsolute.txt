@@ -1,0 +1,16 @@
+C:\Users\creat\source\repos\Sparmal\Sparmal\bin\Debug\net10.0\Sparmal.exe
+C:\Users\creat\source\repos\Sparmal\Sparmal\bin\Debug\net10.0\Sparmal.deps.json
+C:\Users\creat\source\repos\Sparmal\Sparmal\bin\Debug\net10.0\Sparmal.runtimeconfig.json
+C:\Users\creat\source\repos\Sparmal\Sparmal\bin\Debug\net10.0\Sparmal.dll
+C:\Users\creat\source\repos\Sparmal\Sparmal\bin\Debug\net10.0\Sparmal.pdb
+C:\Users\creat\source\repos\Sparmal\Sparmal\obj\Debug\net10.0\Sparmal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\creat\source\repos\Sparmal\Sparmal\obj\Debug\net10.0\Sparmal.AssemblyInfoInputs.cache
+C:\Users\creat\source\repos\Sparmal\Sparmal\obj\Debug\net10.0\Sparmal.AssemblyInfo.cs
+C:\Users\creat\source\repos\Sparmal\Sparmal\obj\Debug\net10.0\Sparmal.csproj.CoreCompileInputs.cache
+C:\Users\creat\source\repos\Sparmal\Sparmal\obj\Debug\net10.0\Sparmal.sourcelink.json
+C:\Users\creat\source\repos\Sparmal\Sparmal\obj\Debug\net10.0\Sparmal.dll
+C:\Users\creat\source\repos\Sparmal\Sparmal\obj\Debug\net10.0\refint\Sparmal.dll
+C:\Users\creat\source\repos\Sparmal\Sparmal\obj\Debug\net10.0\Sparmal.pdb
+C:\Users\creat\source\repos\Sparmal\Sparmal\obj\Debug\net10.0\Sparmal.genruntimeconfig.cache
+C:\Users\creat\source\repos\Sparmal\Sparmal\obj\Debug\net10.0\ref\Sparmal.dll
+C:\Users\creat\source\repos\Sparmal\Sparmal\obj\Debug\net10.0\Sparmal.csproj.Up2Date
