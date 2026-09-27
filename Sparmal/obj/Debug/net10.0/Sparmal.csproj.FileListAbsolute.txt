@@ -13,4 +13,3 @@ C:\Users\creat\source\repos\Sparmal\Sparmal\obj\Debug\net10.0\refint\Sparmal.dll
 C:\Users\creat\source\repos\Sparmal\Sparmal\obj\Debug\net10.0\Sparmal.pdb
 C:\Users\creat\source\repos\Sparmal\Sparmal\obj\Debug\net10.0\Sparmal.genruntimeconfig.cache
 C:\Users\creat\source\repos\Sparmal\Sparmal\obj\Debug\net10.0\ref\Sparmal.dll
-C:\Users\creat\source\repos\Sparmal\Sparmal\obj\Debug\net10.0\Sparmal.csproj.Up2Date
